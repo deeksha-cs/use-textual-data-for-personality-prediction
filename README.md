@@ -6,7 +6,7 @@ Thus having knowledge of personality is an interesting domain for researchers to
 Keywords—Machine Learning, Big Five test, Social Media, Statistical analysis.  
  
  
- #Introduction 
+ # Introduction 
 
 Personality is a key aspect of human life. More specifically personality is a branch of psychological study. Personality is constituted 
 of elements like person’s thoughts, feelings, behavior which continuously keeps on changing over time. Prediction of personality is an area of study where person gets categorized in a class according to his/her personality. There are number of psychological tests that yield different type of personality classes. Popular tests include Big Five test [1, 2, and 3] which yield personality classification in five categories as openness to experience, conscientiousness, extraversion, agreeableness and neuroticism. DISC is another test of psychology that classifies personality in categories as Dominance, Influence, Steadiness and Compliance [4]. MBTI psychological test has 16 categories of personality [5, 6]. All these traditional methods of personality prediction use questionnaire for personality prediction. Filling a lengthy questionnaire is time consuming and tedious job. 
